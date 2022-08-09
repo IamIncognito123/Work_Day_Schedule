@@ -11,3 +11,4 @@ The project utilizes knowledge of javascript, third party APIs for styling such 
 There are no installations required.
 
 ## Link
+https://iamincognito123.github.io/Work_Day_Schedule/
