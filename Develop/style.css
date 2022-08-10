@@ -65,6 +65,8 @@ textarea {
   background-color: #06aed5;
   padding: 10px;
   text-align: center;
+  display: flex;
+  margin-top: -20px;
 
 }
 
